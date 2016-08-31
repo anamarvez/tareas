@@ -1,0 +1,33 @@
+
+#css-zen-garden {
+	background-image: url("https://image-pd.s3.envato.com/files/43630225/Five%20white%20jasmine%20flowers%20and%20leaves%20over%20zen%20stone%20background.jpg");
+	font-family:arial;
+		margin-top: 70px;
+		margin-right: 90px;
+		margin-bottom: 20px;
+		margin-left: 90px;
+	}
+	.page-wrapper {
+		color:white;
+		background:grey;
+		border:2px solid black;
+		text-align: justify;
+		}
+h1 	{
+	background: #BDBDBD;
+	font-size:250%;
+	text-align: center;
+	border:5px solid black;
+	}
+h2	{
+	background: #BDBDBD;
+	margin-right: 841px;
+	margin-left: 20px;
+	color: white;
+	}
+h3	{
+	background: #BDBDBD;
+	color: white;
+	font-style: italic;
+	}
+
